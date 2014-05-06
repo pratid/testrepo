@@ -1,5 +1,6 @@
 /*
  * Copyright 2013 Telefónica I+D
+ * Copyright 2014 Synelixis
  * All Rights Reserved.
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may
