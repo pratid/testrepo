@@ -1,0 +1,9 @@
+.metadata
+.settings
+.project
+.deps
+.libs
+*.o
+*.lo
+*.la
+*.pyc
